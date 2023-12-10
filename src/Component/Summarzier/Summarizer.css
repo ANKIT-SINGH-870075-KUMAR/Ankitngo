@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Clicker+Script&family=Genos:wght@300&family=Noto+Serif:ital,wght@1,200&family=Poppins:wght@400;500;600;700&family=Racing+Sans+One&family=Raleway:wght@400;500;600&family=Rubik+Iso&family=Tilt+Prism&family=Ubuntu:wght@400;500;700&display=swap');
+
+.SummarizerContainer{
+    padding-top: 2vmax;
+}
+
+.SummarizerContainer .HEADING{
+    text-align: center;
+    padding: 2vmax;
+    font-family: "Clicker Script";
+    font-size: 25px;
+}
